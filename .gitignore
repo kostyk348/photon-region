@@ -1,0 +1,18 @@
+# Build artifacts
+*.o
+*.so
+*.a
+bench_region
+test_region
+demo_weston_repaint
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
