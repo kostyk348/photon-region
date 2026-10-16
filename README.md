@@ -1,4 +1,8 @@
-## Photon Region — Tile-Based Region Algebra for Wayland Compositors
+# Photon Region — Tile-Based Region Algebra for Wayland Compositors
+
+[![Release](https://img.shields.io/github/v/release/kostyk348/photon-region?sort=semver&color=blue)](https://github.com/kostyk348/photon-region/releases)
+[![License](https://img.shields.io/badge/license-Apache-2.0-green)](https://github.com/kostyk348/photon-region/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/kostyk348/photon-region?branch=main)](https://github.com/kostyk348/photon-region/commits/main)
 
 A clean-room reimplementation of QNX Photon microGUI tile/region clipping,
 optimized for **occlusion culling** in Wayland compositors (weston, wlroots).
